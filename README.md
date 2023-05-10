@@ -11,13 +11,13 @@ mkdir projeto-tarefas
 2. Acesse a pasta do projeto:
 cd projeto-tarefas
 3. Clone este repositório com o seguinte comando:
-git clone https://github.com/seu-usuario/projeto-tarefas.git
+git clone https://github.com/aislanifpi/projeto-tarefas.git
 4. Instale as dependências do projeto com o seguinte comando:
 npm install
 ## Uso
 
 Para executar os testes do projeto, execute o seguinte comando:
-npm test
+npx jest
 
 Este comando irá executar todos os testes que estão nos arquivos que terminam com `.test.js` dentro da pasta `__tests__`.
 
