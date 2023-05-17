@@ -23,7 +23,7 @@ Este comando irá executar todos os testes que estão nos arquivos que terminam 
 
 Se os testes estiverem corretos, o Jest irá exibir uma mensagem informando que os testes passaram. Se os testes estiverem incorretos, o Jest irá exibir uma mensagem informando qual foi o erro.
 
-Você pode escrever mais testes para o seu projeto e executá-los sempre que precisar com o comando `npm test`.
+Você pode escrever mais testes para o seu projeto e executá-los sempre que precisar com o comando `npx jest`.
 
 ## Contribuição
 
